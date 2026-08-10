@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/compare/v1.1.0...v1.2.0) (2026-08-10)
+
+
+### Features
+
+* add destroy job ([c84f3c3](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/commit/c84f3c363bb48b41568146146eb6d8c78a26740c))
+
 ## [1.1.0](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/compare/v1.0.0...v1.1.0) (2026-08-10)
 
 
