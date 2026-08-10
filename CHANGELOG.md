@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/compare/v1.2.0...v1.3.0) (2026-08-10)
+
+
+### Features
+
+* define destroy job ([e791cb5](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/commit/e791cb5aec8afbd396cb4468c93871a1c523b78a))
+
+
+### Bug Fixes
+
+* make destroy job to run in terraform folder ([314989e](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/commit/314989e0e7396d173d66da0760d935a4948f2a47))
+
 ## [1.2.0](https://github.com/Jcaldana97/ce-lab-cicd-best-practices/compare/v1.1.0...v1.2.0) (2026-08-10)
 
 
